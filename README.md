@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-## [Check it live here](michaelb-frontend.netlify.app)
+## [Check it live here](https://michaelb-frontend.netlify.app/)
 
 ![Thumbnail](thumbnail.png)
 
